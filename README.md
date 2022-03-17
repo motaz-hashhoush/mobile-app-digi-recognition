@@ -1,4 +1,4 @@
-# mobile-app-digi-recognition
+# mobile-app-digit-recognition
 ## Feed forward neural network model for digit recognition
 
 - practice a FFNN model for digit recognition. 
