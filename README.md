@@ -8,3 +8,9 @@
   -  save the model in tensor flow lite format.
   
 - the mobile app side uses the model. in real-time takes a stream of video from the camera and predicts for every frame and shows the predicted digit.
+
+
+### Team member
+- Omar abdulhaq
+- Motaz hashhoush
+- Al-meqdad jabi
